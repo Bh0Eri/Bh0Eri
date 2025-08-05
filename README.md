@@ -1,3 +1,5 @@
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-ericmoreiradosreis@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{ericmoreiradosreis@gmail.com})](mailto:{ericmoreiradosreis@gmail.com})
